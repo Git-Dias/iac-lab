@@ -11,3 +11,5 @@ terraform {
     }
   }
 }
+
+  # Declara o provider da AWS e a versão que deve sera utilizada | Na configuração está definido que será utilizada especificamente a versão 5.35.0
